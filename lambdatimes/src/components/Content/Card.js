@@ -22,7 +22,7 @@ Card.propTypes = {
       headline: PropTypes.string,
       tab: PropTypes.string,
       img: PropTypes.string,
-      auther: PropTypes.string
+      author: PropTypes.string
     })
   )
 };
